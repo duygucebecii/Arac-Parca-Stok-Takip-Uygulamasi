@@ -4,6 +4,17 @@
 
 Bu projede, otomotiv sektöründeki işletmelerin ihtiyaçlarına yönelik bir Araç Parça Stok Takip Uygulaması geliştirildi. Uygulama, C# programlama dili kullanılarak nesneye yönelik programlama prensiplerine uygun bir şekilde tasarlandı. Temel amacı, araç parça stoklarını etkili bir şekilde yönetmek ve işletmelerin stok takip süreçlerini optimize etmektir.
 
+## Projeye Özgün Değer
+
+Bu projenin özgün değeri, otomotiv sektöründeki işletmelerin karşılaştığı spesifik zorluklara çözüm sunan esnek bir stok takip çözümü sunmasıdır. Proje, şu özellikleri içermektedir:
+
+- **Çeşitli Araç Parça Türlerini Kapsar:** Proje, far, lastik, motor, fren ve şanzıman gibi farklı araç parça türlerini kapsayan bir hiyerarşi sunar, böylece geniş bir ürün yelpazesine uyum sağlar.
+
+- **Kullanıcı Dostu Arayüz:** Proje, konsol üzerinde kullanıcı dostu bir arayüz sunar ve kullanıcıların stok durumunu kolayca takip etmelerini, parça eklemelerini ve silmelerini sağlar.
+
+- **Nesneye Yönelik Programlama İlkeleri:** Proje, nesneye yönelik programlama prensiplerine (kalıtım, soyutlama, kapsülleme) uygun bir şekilde tasarlanmıştır, bu da kodun modüler ve genişletilebilir olmasını sağlar.
+
+
 ## Proje Özellikleri ve Prensipleri
 
 ### 1. Kullanıcı Sınıfı
